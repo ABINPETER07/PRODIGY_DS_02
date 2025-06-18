@@ -1,13 +1,13 @@
-# 🛳️ Titanic Dataset - Exploratory Data Analysis (EDA)
+#  Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to identify patterns and insights related to passenger survival.
 
-## 📁 Files
+##  Files
 
 - `EDAtitanic.ipynb` – Jupyter Notebook containing all code and visualizations.
 - `AGE DISTRIBUTION BY SURVIVAL.png` – Box plot image showing age distribution by survival status.
 
-## 📊 Key Objectives
+##  Key Objectives
 
 - Understand the structure and features of the Titanic dataset
 - Analyze survival rates across different passenger attributes
@@ -18,7 +18,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
   - Embarkation point
   - Fare and other continuous features
 
-## 🔍 EDA Techniques Used
+##  EDA Techniques Used
 
 - Missing value analysis
 - Statistical summary
@@ -27,13 +27,13 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 - Histograms and distribution plots
 - Correlation heatmap
 
-## 📌 Insights
+##  Insights
 
 - Women had a higher survival rate than men
 - Children and upper-class passengers were more likely to survive
 - Age distribution shows similar medians for survivors and non-survivors, but survivors include a wider age range
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - Pandas
@@ -41,11 +41,11 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 - Seaborn
 - Jupyter Notebook
 
-## 📦 Dataset
+##  Dataset
 
 - Dataset used: [Titanic dataset from Kaggle](https://www.kaggle.com/competitions/titanic/data) or `train.csv`
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -53,5 +53,5 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
    cd titanic-eda
 2.Open the notebook:
    jupyter notebook EDAtitanic.ipynb
-3.
+
 
